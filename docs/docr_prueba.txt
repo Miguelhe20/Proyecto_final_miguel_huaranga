@@ -1,2 +1,0 @@
-orueba confliecto 1
-esto es un modificacion en conflicto 2swi
