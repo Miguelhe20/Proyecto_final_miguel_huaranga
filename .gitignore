@@ -1,0 +1,9 @@
+# Secretos: NUNCA se suben
+.env
+
+# Dependencias y artefactos de Playwright
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
